@@ -1,0 +1,11 @@
+.nav a {
+    padding: 5rem;
+    text-decoration: none;   
+    color: rgb(175, 0, 161);
+}
+.nav {
+    margin: 2rem;
+}
+h1 {
+    color:rgb(71, 10, 66)
+}
